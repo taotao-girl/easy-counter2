@@ -1,0 +1,4 @@
+D:\陶VS2010的project（C#）\2-8-计算器重构\2-8-计算器重构\bin\Debug\2-8-计算器重构.exe
+D:\陶VS2010的project（C#）\2-8-计算器重构\2-8-计算器重构\bin\Debug\2-8-计算器重构.pdb
+D:\陶VS2010的project（C#）\2-8-计算器重构\2-8-计算器重构\obj\x86\Debug\2-8-计算器重构.exe
+D:\陶VS2010的project（C#）\2-8-计算器重构\2-8-计算器重构\obj\x86\Debug\2-8-计算器重构.pdb
